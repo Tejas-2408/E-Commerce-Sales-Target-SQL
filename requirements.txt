@@ -3,3 +3,4 @@ numpy
 matplotlib
 ipykernel
 mysql-connector-python
+seaborn
